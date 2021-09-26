@@ -1,1 +1,2 @@
-# DOM---JavaScript-value-manipulation-
+# DOM-JavaScript-value-manipulation-
+Simple app that manipulates value with button clicks. 
